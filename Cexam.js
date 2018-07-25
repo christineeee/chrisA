@@ -108,7 +108,7 @@
     "name": "Secret Lagoon(El Nido)",
     "imageUrl": "https://raw.githubusercontent.com/christineeee/chrisA/master/New%20folder/9.jpg",
     "Distance(Km)": 20,
-    "lat": 11.139734,,
-    "lng": 11.139734,
+    "lat": 11.139734,
+    "lng": 11.139734
   }  
 ]
